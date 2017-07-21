@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yurt_Otomasyon2", "Yurt_Otomasyon2\Yurt_Otomasyon2.csproj", "{4F37FBC5-4FA2-4833-B0CF-F9F4B3C52CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F37FBC5-4FA2-4833-B0CF-F9F4B3C52CF3}.Debug|x86.ActiveCfg = Debug|x86
+		{4F37FBC5-4FA2-4833-B0CF-F9F4B3C52CF3}.Debug|x86.Build.0 = Debug|x86
+		{4F37FBC5-4FA2-4833-B0CF-F9F4B3C52CF3}.Release|x86.ActiveCfg = Release|x86
+		{4F37FBC5-4FA2-4833-B0CF-F9F4B3C52CF3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

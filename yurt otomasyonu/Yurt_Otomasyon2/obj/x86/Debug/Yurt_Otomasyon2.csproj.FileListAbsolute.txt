@@ -1,0 +1,56 @@
+c:\users\gulay-pc\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.csprojResolveAssemblyReference.cache
+c:\users\gulay-pc\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Form1.resources
+c:\users\gulay-pc\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Properties.Resources.resources
+c:\users\gulay-pc\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.csproj.GenerateResource.Cache
+c:\users\gulay-pc\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\bin\Debug\Yurt_Otomasyon2.exe
+c:\users\gulay-pc\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\bin\Debug\Yurt_Otomasyon2.pdb
+c:\users\gulay-pc\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.exe
+c:\users\gulay-pc\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.pdb
+c:\users\gulay-pc\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Admin.resources
+c:\users\gulay-pc\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Ogrenci.resources
+c:\users\gulay-pc\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Personel.resources
+C:\Users\GULAY-PC\Documents\Visual Studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Kullanici.resources
+C:\Users\GULAY-PC\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.OdaBilgileri.resources
+C:\Users\GULAY-PC\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.izin.resources
+C:\Users\GULAY-PC\documents\visual studio 2010\Projects\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Hesap.resources
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.exe
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.pdb
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\bin\Debug\Yurt_Otomasyon2.exe
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\bin\Debug\Yurt_Otomasyon2.pdb
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.csprojResolveAssemblyReference.cache
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Admin.resources
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Form1.resources
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Hesap.resources
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.izin.resources
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Kullanici.resources
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.OdaBilgileri.resources
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Ogrenci.resources
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Personel.resources
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Properties.Resources.resources
+F:\Yurt_Otomasyon2\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.csproj.GenerateResource.Cache
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.exe
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.pdb
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\bin\Debug\Yurt_Otomasyon2.exe
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\bin\Debug\Yurt_Otomasyon2.pdb
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.csprojResolveAssemblyReference.cache
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Admin.resources
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Form1.resources
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Hesap.resources
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.izin.resources
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Kullanici.resources
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.OdaBilgileri.resources
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Ogrenci.resources
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Personel.resources
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Properties.Resources.resources
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.csproj.GenerateResource.Cache
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.Form2.resources
+C:\Users\GULAY-PC\Desktop\ODEVV\Yurt_Otomasyon2\bin\Debug\Yurt_Otomasyon2.exe.config
+C:\Users\GULAY-PC\Desktop\DERS NOTU\ODEVV\Yurt_Otomasyon2\bin\Debug\Yurt_Otomasyon2.exe.config
+C:\Users\GULAY-PC\Desktop\DERS NOTU\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.exe
+C:\Users\GULAY-PC\Desktop\DERS NOTU\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.pdb
+F:\GULAY-SEMA ODEV\ODEVV\Yurt_Otomasyon2\bin\Debug\Yurt_Otomasyon2.exe.config
+F:\GULAY-SEMA ODEV\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.exe
+F:\GULAY-SEMA ODEV\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.pdb
+G:\GULAY-SEMA ODEV\ODEVV\Yurt_Otomasyon2\bin\Debug\Yurt_Otomasyon2.exe.config
+G:\GULAY-SEMA ODEV\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.exe
+G:\GULAY-SEMA ODEV\ODEVV\Yurt_Otomasyon2\obj\x86\Debug\Yurt_Otomasyon2.pdb
